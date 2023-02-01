@@ -6,3 +6,9 @@
 ```bash
 pip install -r requirements.txt
 ```
+
+### And then, run program from IDE or run the command
+
+```bash
+pyhthon3 scrapping_yelp_crawling.py
+```
